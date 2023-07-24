@@ -1,0 +1,28 @@
+#PLAYLISTV: pltv-logo="https://fliperamaxxi.com/img/cms/one.png" pltv-name="Exclusivo Clientes" pltv-description="Filmes e Séries" pltv-cover="https://http2.mlstatic.com/lista-iptv-filmes-series-e-animes-13000-conteudos-lanca-D_NQ_NP_703799-MLB26626833973_012018-F.jpg" pltv-author="João Victor" pltv-site="xxxx" pltv-email="xxxx" pltv-phone="xxxx"
+
+***FILMES***
+
+#EXTINF:-1 tvg-logo="https://cdn.ome.lt/extras/capas/ligaPosterNacional.jpg" group-title="Filmes Lançamentos", Liga da Justiça
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2018/JUSTICALIGA2017DUB-BAIXO.mp4
+
+#EXTINF:-1 tvg-logo="http://images.universohq.com//2017/10/ThorRagnarokPoster2.jpg" group-title="Filmes Lançamentos", THOR: RAGNAROK
+http://s007.thevid.net/v/560668f3da48c75f780138e1cd350b50.mp4?e=1518918281&sa=u72RRmlrZd51Rs81tyEfQQ&st=SEOnyDpEKni2YMsCuN_YEg
+***SERIES***
+
+****Lucifer****
+
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/07/content_pic.jpg" group-title="Lucifer Temporada 1", Episodio 1
+https://r1---sn-gpv7enek.googlevideo.com/videoplayback?requiressl=yes&id=132f5037132a31ff&itag=18&source=blogger&app=blogger&ip=0.0.0.0&ipbits=0&expire=1521221120&sparams=expire,id,ip,ipbits,itag,mip,mm,mn,ms,mv,pl,requiressl,sc,source&signature=7AD87DA4ECCAE9C4729D582C9045EA047BF2E875.69809CB3EDF4FC1A66754479A03F743030667C60&key=cms1&cms_redirect=yes&mip=192.141.72.0&mm=30&mn=sn-gpv7enek&ms=nxu&mt=1519073540&mv=m&pl=24&sc=yes
+
+#EXTINF:-1 tvg-logo="http://cdnstk.ntcdn.us/wp-content/uploads/2017/07/content_pic.jpg" group-title="Lucifer Temporada 1", Episodio 2
+https://r1---sn-gpv7enek.googlevideo.com/videoplayback?requiressl=yes&id=bfa1dc99d4e7d31b&itag=18&source=blogger&app=blogger&ip=0.0.0.0&ipbits=0&expire=1521221285&sparams=expire,id,ip,ipbits,itag,mip,mm,mn,ms,mv,pl,requiressl,sc,source&signature=D191E0FD1DD9FF77B9845CBE558E9F79DF4D5D.01A8D3BAB775020CED6E6E7784BA04DDAA68C46E&key=cms1&cms_redirect=yes&mip=192.141.72.0&mm=30&mn=sn-gpv7enek&ms=nxu&mt=1519073721&mv=m&pl=24&sc=yes
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-sNtjkoVXEIY/WfVNzumM-ZI/AAAAAAAAB-I/8ItZlLO0_DMVit9Du_Y0futhS97-APMegCLcBGAs/s320/lucifer2.jpg" group-title="Lucifer Temporada 2", Episodio 4 LEG
+https://r6---sn-gpv7eney.googlevideo.com/videoplayback?requiressl=yes&id=5bf09192a55da3c4&itag=18&source=blogger&app=blogger&ip=0.0.0.0&ipbits=0&expire=1521222093&sparams=expire,id,ip,ipbits,itag,mip,mm,mn,ms,mv,pl,requiressl,sc,source&signature=312554A5283976744BF7A1AC66E7093CFA1F321D.665310D1F9D8FB53B803AF0B9FC3AACE67CEF5A7&key=cms1&cms_redirect=yes&mip=192.141.72.0&mm=30&mn=sn-gpv7eney&ms=nxu&mt=1519074500&mv=m&pl=24&sc=yes
+
+
+
+******Vikings******
+
+#EXTINF:-1 tvg-logo="http://www.megafilmeshd21.org/wp-content/uploads/2016/09/1-26.jpg" group-title="Vikings Temporada 1", Episodio 1
+https://r5---sn-gpv7eney.googlevideo.com/videoplayback?requiressl=yes&id=b2db5d25e72f2a10&itag=18&source=blogger&app=blogger&ip=0.0.0.0&ipbits=0&expire=1521224684&sparams=expire,id,ip,ipbits,itag,mip,mm,mn,ms,mv,pl,requiressl,sc,source&signature=36AC337032D64D4B8CFC282D001FCB10E4CF7407.478C70ED6068B535ADFFFFFFD7EA2D4FC8D5B623&key=cms1&cms_redirect=yes&mip=192.141.72.0&mm=30&mn=sn-gpv7eney&ms=nxu&mt=1519077139&mv=m&pl=24&sc=yes
