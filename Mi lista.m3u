@@ -1,11 +1,10 @@
-#PLAYLISTV: pltv-logo="https://fliperamaxxi.com/img/cms/one.png" pltv-name="Exclusivo Clientes" pltv-description="Filmes e Séries" pltv-cover="https://http2.mlstatic.com/lista-iptv-filmes-series-e-animes-13000-conteudos-lanca-D_NQ_NP_703799-MLB26626833973_012018-F.jpg" pltv-author="João Victor" pltv-site="xxxx" pltv-email="xxxx" pltv-phone="xxxx"
-
+#PLAYLISTV: pltv-logo="#" 
 ***PELICULAS***
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/b0MxU37dNmMwKtoPVYPKOZSIrIn.jpg" group-title="Filmes Lançamentos", EL REY LEON
 https://ia601805.us.archive.org/34/items/67-e-1-r-3y-1e-0n/67E1%20r3y%201e0n.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/zdD5VcvTD43p048ueswYdgLJZh.jpg" group-title="Filmes Lançamentos", EL REY LEON 2
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/zdD5VcvTD43p048ueswYdgLJZh.jpg" group-title="Filmes Lançamentos", EL REY LEON DOS
 https://ia803404.us.archive.org/7/items/f-76-r-3y-leon-2-1fe-0debeca-8f-44d-720p/f76R3y%20le%C3%B3n%202%201fe0debeca8f44d-720p.mp4
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6NmsF4LgWTefgEbigUE86O0kIr2.jpg" group-title="Filmes Lançamentos", TRANSITO
